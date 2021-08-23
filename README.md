@@ -59,11 +59,11 @@
   
   
   
-<a href="https://twitter.com/saketsaurabhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saketsaurabhav" height="60" width="80" /></a>
+<a href="https://twitter.com/saketsaurabhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saketsaurabhav" height="30" width="40" /></a>
   
   
   
-<a href="https://linkedin.com/in/saketsaurabhsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saketsaurabhsingh" height="60" width="80" /></a>
+<a href="https://linkedin.com/in/saketsaurabhsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saketsaurabhsingh" height="30" width="40" /></a>
   
   
 </p>
