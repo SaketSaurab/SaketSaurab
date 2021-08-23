@@ -66,5 +66,6 @@
   
 <a href="https://twitter.com/saketsaurabhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saketsaurabhav" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/saketsaurabhsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saketsaurabhsingh" height="30" width="40" /></a>
+  <a href="https://t.me/SaketSaurabh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="SaketSaurabh" height="30" width="40" /></a>
 </p>
 <hr>
