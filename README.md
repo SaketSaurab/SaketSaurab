@@ -24,13 +24,13 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=saketsaurab&show_icons=true&locale=en" alt="saketsaurab" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=saketsaurab&show_icons=true&locale=en" alt="saketsaurab" /></p>
 
 
 
 <hr>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saketsaurab&show_icons=true&locale=en&layout=compact" alt="saketsaurab" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=saketsaurab&show_icons=true&locale=en&layout=compact" alt="saketsaurab" /></p>
 
 
 
@@ -60,10 +60,10 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   
-  
+<h3 align="left">Connect with me:</h3>  
   
 <a href="https://twitter.com/saketsaurabhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saketsaurabhav" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/saketsaurabhsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saketsaurabhsingh" height="30" width="40" /></a>
