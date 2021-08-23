@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saket Saurabh</h1>
 <h3 align="center">A passionate Android developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saketsaurab&label=Profile%20views&color=0e75b6&style=flat" alt="saketsaurab" /> </p>
 
 
 
@@ -45,9 +46,8 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saketsaurab&label=Profile%20views&color=0e75b6&style=flat" alt="saketsaurab" /> </p>
 
-<hr>
+
 
 
 
