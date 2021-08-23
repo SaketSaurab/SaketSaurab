@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Android Development** 
 
 - 👯 I’m looking to collaborate on **Android Development Projects**
 
@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **Coding and Algorithm**
 
-
+- 💻 Computer Science Engineer
 
 <hr>
 <h2 align="left">Languages and Tools:</h2>
