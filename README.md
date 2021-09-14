@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java & Android Development**
 
-- ⚡ Fun fact **Coding and Algorithm**
+- ⚡ Fun with **Coding and Algorithm**
 
 - 💻 Computer Science **Engineer**
 
