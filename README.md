@@ -6,11 +6,11 @@
 
 
 
-- 📱 I’m currently learning **Android Development** 
+- 📱 I’m currently learning **Full Stack Web Development** 
 
-- 👯 I’m looking to collaborate on **Android Development Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **Java & Android Development**
+- 💬 Ask me about **Java & Web Development**
 
 - ⚡ Fun with **Coding and Algorithm**
 
