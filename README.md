@@ -10,10 +10,6 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **Java & Web Development**
-
-- ⚡ Fun with **Coding and Algorithm**
-
 - 💻 Computer Science **Engineer**
 
 
