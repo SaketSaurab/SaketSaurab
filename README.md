@@ -26,31 +26,22 @@
 <br>
 <hr>
 
+<p>
+<img width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=saketsaurab&show_icons=true&locale=en&layout=compact" alt="saketsaurab" />
 
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=saketsaurab&show_icons=true&locale=en" alt="saketsaurab" />
 
-
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=saketsaurab&show_icons=true&locale=en" alt="saketsaurab" /></p>
-
-
-
-<hr>
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=saketsaurab&show_icons=true&locale=en&layout=compact" alt="saketsaurab" /></p>
-
-
-
-
-
+</p>
 
 
 
 
 <hr>
+
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saketsaurab&" alt="saketsaurab" /></p>
-<hr>
-
-
-
-
 
 
 
