@@ -38,10 +38,11 @@
 
 <hr>
 
+<p>
+  <img width="58%"  src="https://github-readme-streak-stats.herokuapp.com/?user=saketsaurab&" alt="saketsaurab" />
+  <img width="23%" src="https://cdn.pixabay.com/animation/2024/06/04/13/22/13-22-13-877_512.gif" alt ="coding gif"/>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saketsaurab&" alt="saketsaurab" /></p>
+</p>
 
 
 
